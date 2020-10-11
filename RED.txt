@@ -1,0 +1,49 @@
+hello 
+
+This program is made for those who ,Like me .Do note have the patience to install programes
+
+Install THERMUX pre-requisites completely automatically wich this program without any hassle 
+
+Mor sluggish programs are waiting to be built Enjoy and be happy :*****
+
+
+
+HOW TO INSTALL:
+
+
+
+cd naser/
+
+chmod  +x naser.sh
+
+./naser.sh
+
+
+This script includes programs such as :
+
+tor 
+
+hydra
+
+gema-system-x86_64
+
+zip
+
+unzip
+
+nmap
+
+net-tools
+
+x11-repo
+
+unstable-repo
+
+root-repo
+
+update && upgrade
+
+python 
+
+python2
+
