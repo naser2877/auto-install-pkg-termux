@@ -10,7 +10,7 @@ Mor sluggish programs are waiting to be built Enjoy and be happy :*****
 
 HOW TO INSTALL:
 
-
+git clone https://github.com/naser2877/auto-install-pkg-termux.git
 
 cd naser/
 
@@ -46,4 +46,3 @@ update && upgrade
 python 
 
 python2
-
