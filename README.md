@@ -1,1 +1,1 @@
-# auto-install-pkg-termux
+# termux 002
